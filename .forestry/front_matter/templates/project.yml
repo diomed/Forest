@@ -30,5 +30,6 @@ fields:
     color_format: Hex
   label: Foreground color
 pages:
+- projects/bedrich-smetana-vltava.md
 - projects/3d-graff.md
 - projects/ios-concept.md
